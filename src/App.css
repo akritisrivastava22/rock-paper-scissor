@@ -1,0 +1,55 @@
+
+
+.bdy{
+  background-color: black;
+  padding-bottom: 50px;
+}
+.container{
+  display: flex;
+  justify-content: center;
+  vertical-align: center;
+  flex-direction: row;
+  gap: 2em;
+  padding-top: 20px;
+  height: 400px;
+}
+.playerbox{
+  padding-left: 20px;
+  width: 120px;
+  height: 120px;
+  /* display: flex; */
+  /* justify-content: center; */
+  padding-top: 10px;
+  background-color: blueviolet;
+}
+.player{
+  padding-left: 10px ;
+  margin:auto;
+  padding: auto;
+}
+.icon{
+  margin: 5px 0px 0px 9px;
+}
+
+.butn{
+  background-color:cadetblue;
+  padding: 10px 25px 10px 25px;
+  
+}
+
+.buttnbox{
+  text-align: center;
+  margin-top: -90px;
+}
+.Result{
+  text-align: center;
+  font-size: xx-large;
+  color: blueviolet;
+  font-weight: 800;
+  ;
+}
+.play{
+  margin-bottom: 10px;
+  padding-top: -10px;
+  color: white;  
+}
